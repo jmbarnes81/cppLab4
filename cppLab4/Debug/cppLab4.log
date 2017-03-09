@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\300012498\desktop\cpplab4\cpplab4\main.cpp(28): warning C4101: 'j': unreferenced local variable
+c:\users\300012498\desktop\cpplab4\cpplab4\main.cpp(80): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\300012498\desktop\cpplab4\cpplab4\main.cpp(80): warning C4309: 'initializing': truncation of constant value
+  cppLab4.vcxproj -> C:\Users\300012498\Desktop\cppLab4\Debug\cppLab4.exe
+  cppLab4.vcxproj -> C:\Users\300012498\Desktop\cppLab4\Debug\cppLab4.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jbarnes\documents\visual studio 2015\projects\lab4 structures\lab4 structures\main.cpp(51): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\jbarnes\documents\visual studio 2015\projects\lab4 structures\lab4 structures\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  Lab4 Structures.vcxproj -> c:\users\jbarnes\documents\visual studio 2015\Projects\Lab4 Structures\Debug\Lab4 Structures.exe
+  Lab4 Structures.vcxproj -> c:\users\jbarnes\documents\visual studio 2015\Projects\Lab4 Structures\Debug\Lab4 Structures.pdb (Partial PDB)
